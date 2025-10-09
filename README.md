@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/leithhass?tab=repositories">repos</a> •
   <a href="mailto:leithhass@gmail.com">email</a> •
-  <a href="https://www.linkedin.com/in/leithhass">linkedin</a>
+  <a href="https://[www.linkedin.com/in/leithhass"](https://www.linkedin.com/in/leith-hassayoun/)>linkedin</a>
 </p>
 
 <p align="center">
