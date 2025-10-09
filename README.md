@@ -15,7 +15,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white">
 </p>
 
-<!-- tagline (chill, not job-seeking) -->
+<!-- tagline (chill) -->
 <p align="center"><b>mostly building calm, polished mobile apps</b> — Flutter & iOS, with a touch of Node.js when it makes sense.</p>
 
 <!-- featured project -->
@@ -51,11 +51,11 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leithhass&layout=compact&langs_count=8&theme=graywhite&hide_border=true" />
 </p>
 
-<!-- links (optional) -->
+<!-- links -->
 <p align="center">
   <a href="https://github.com/leithhass?tab=repositories">repos</a> •
   <a href="mailto:leithhass@gmail.com">email</a> •
-  <a href="https://[www.linkedin.com/in/leithhass"](https://www.linkedin.com/in/leith-hassayoun/)>linkedin</a>
+  <a href="https://www.linkedin.com/in/leith-hassayoun/">linkedin</a>
 </p>
 
 <p align="center">
