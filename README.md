@@ -18,14 +18,16 @@
 <!-- tagline (chill) -->
 <p align="center"><b>mostly building calm, polished mobile apps</b> — Flutter & iOS, with a touch of Node.js when it makes sense.</p>
 
-<!-- featured project -->
+<!-- Featured projects -->
 <p align="center">
-  <a href="https://github.com/leithhass/ToDoPlanner"><b>Featured:</b> Todo Planner</a> — offline, notifications, insights.
-  <br/>
   <a href="https://github.com/leithhass/ToDoPlanner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leithhass&repo=ToDoPlanner&theme=default" />
   </a>
+  <a href="https://github.com/leithhass/AndOneSwift">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leithhass&repo=AndOneSwift&theme=default" />
+  </a>
 </p>
+
 
 <!-- tech icons -->
 <p align="center">
