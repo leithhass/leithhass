@@ -19,15 +19,26 @@
 <p align="center"><b>mostly building calm, polished mobile apps</b> — Flutter & iOS, with a touch of Node.js when it makes sense.</p>
 
 <!-- Featured projects -->
-<p align="center">
-  <a href="https://github.com/leithhass/ToDoPlanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leithhass&repo=ToDoPlanner&theme=default" />
-  </a>
-  <a href="https://github.com/leithhass/AndOneSwift">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leithhass&repo=AndOneSwift&theme=default" />
-  </a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://github.com/leithhass/ToDoPlanner"><b>Featured:</b> Todo Planner</a> — offline, notifications, insights.
+        <br/>
+        <a href="https://github.com/leithhass/ToDoPlanner">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leithhass&repo=ToDoPlanner&theme=default" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://github.com/leithhass/AndOneSwift"><b>Featured:</b> AndOneSwift</a> — Book your basketball court and join your friends.
+        <br/>
+        <a href="https://github.com/leithhass/AndOneSwift">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leithhass&repo=AndOneSwift&theme=default" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- tech icons -->
 <p align="center">
